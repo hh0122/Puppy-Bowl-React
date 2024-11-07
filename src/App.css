@@ -1,0 +1,9 @@
+body {
+  background-color: beige;
+}
+.nav {
+  margin: 50px;
+}
+.div {
+  display: flex;
+}
